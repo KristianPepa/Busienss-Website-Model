@@ -1,4 +1,4 @@
-<h1>Business Consulting Website Model</h1>	
+# Business Consulting Website Model   [![Netlify Status](https://api.netlify.com/api/v1/badges/1735851d-8bf1-425b-a01a-7f7921b92b63/deploy-status)](https://app.netlify.com/sites/business-website-model/deploys)	
 
 ![Business Website Image](https://user-images.githubusercontent.com/80427725/231799096-5063943f-65bd-4198-aa57-b759b9c9fa97.png)
 
