@@ -6,7 +6,7 @@ const NavBar = ({bgColor,topMargin,padding}) => {
         <div className={`bg-${bgColor} w-full  text-white mt-${topMargin}`}>
             <div className={`flex justify-around flex-row text-white p-${padding}`}>
                 <div className="basis-2/4 ml-16">
-                    <Link to="/Home"><p className="text-4xl">Logo<span className="text-blue-500 text-6xl ">.</span></p></Link>
+                    <Link to="/"><p className="text-4xl">Logo<span className="text-blue-500 text-6xl ">.</span></p></Link>
                     <p className="text-xs">Business Type</p>
                 </div>
                 <div className="flex basis-3/4 flex-col  mr-24 text-base">
