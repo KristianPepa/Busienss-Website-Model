@@ -1,4 +1,6 @@
 <h1>Business Consulting Website Model</h1>	
+![Business Website Image](https://user-images.githubusercontent.com/80427725/231799096-5063943f-65bd-4198-aa57-b759b9c9fa97.png)
+
 Welcome to the official repository for the Business Consulting Website Model! 
 <br>This website is a Frontend website without a backend for Desktop/Laptop not Mobile.
 
@@ -17,4 +19,3 @@ If find any issues or bugs please submit a issue in the issues tab of this repos
 
 <h3>Desktop Demo:</h3>
 
-![Business Website Image](https://user-images.githubusercontent.com/80427725/231799096-5063943f-65bd-4198-aa57-b759b9c9fa97.png)
